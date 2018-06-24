@@ -30,6 +30,7 @@ import (
  * - https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-394.pdf
  * - https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-395.pdf
  * - IEC 60908:1999
+ *   https://github.com/suvozit/CD-Copy-protect
  * - IEC 908
  * - http://moais.imag.fr/membres/jean-louis.roch/perso_html/COURS/CSCI-506b-TRAIT-ERREURS/documents/IEC908.pdf
  * - http://www.informit.com/articles/article.aspx?p=1746162&seqNum=2
@@ -39,6 +40,8 @@ import (
  * - https://github.com/happycube/ld-decode/blob/master/cd-decoder.py
  * - https://github.com/sidneycadot/Laser2Wav/tree/master/python
  * - https://en.wikipedia.org/wiki/Compact_disc#Physical_details
+ * - The physics of the compact disc by John A Cope
+ *   http://leung.uwaterloo.ca/CHEM/750/Lectures%202007/Lect%20Mat/physics%20of%20cd%20pe930103.pdf
  */
 
 type Pattern string
